@@ -16,6 +16,16 @@
     --texto-normal: Inter, cursive;
 }
 
+@media (max-width: 375px){
+    aside{
+        min-height: 400px;
+    }
+
+    main{
+        min-height: 1800px;
+    }
+}
+
 *{
     margin: 0px;
     padding: 0px;
