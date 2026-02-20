@@ -1,0 +1,53 @@
+
+main{
+    height: 1500px;
+}
+
+main img.via-lactea{
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    width: 90%;
+    border-radius: 10px;
+}
+
+div.galaxys > h2{
+    background-color:#0F172A;
+    margin: 0px 0px 0px 0px;
+    padding-left: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+div.galaxys{
+    display: block;
+    margin: auto;
+    height: 180px;
+    width: 300px;
+    background-color: var(--cor1); 
+    border-radius: 5px;   
+}
+
+ul{
+    list-style-type: none;
+    list-style-position: inside;
+}
+
+li{
+    text-indent: 10px;
+    padding-top: 10px;
+    margin-top: 5px;
+}
+
+img.colisoes{
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    width: 80%;
+    height: 17%;
+    border-radius: 10px;
+}
+
+footer{
+    text-align: center;
+}

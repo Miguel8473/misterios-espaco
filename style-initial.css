@@ -1,0 +1,42 @@
+img.materia-escura{
+    display: block;
+    margin: auto;
+    width: 80%;
+    border-radius: 5px;
+}
+
+main{
+    height: 1150px;
+}
+
+div.initial > h2{
+    background-color:#0F172A;
+    margin: 0px 0px 0px 0px;
+    padding-left: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+div.initial{
+    display: block;
+    margin: auto;
+    margin-right: 50px;
+    margin-left: 50px;
+    height: 200px;
+    background-color: var(--cor1); 
+    border-radius: 5px;   
+}
+
+ul{
+    list-style-type: none;
+    list-style-position: inside;
+}
+
+li{
+    text-indent: 10px;
+    padding-top: 10px;
+}
+
+footer{
+    text-align: center;
+}
