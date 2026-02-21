@@ -10,6 +10,8 @@
 
     div.initial{
         min-height: 250px;
+
+        main
     }
 }
 
@@ -26,6 +28,7 @@ main{
 
 div.initial > h2{
     background-color:#0F172A;
+    font-size: 1.4em;
     margin: 0px 0px 0px 0px;
     padding-left: 10px;
     border-top-left-radius: 5px;
@@ -37,7 +40,7 @@ div.initial{
     margin: auto;
     margin-right: 50px;
     margin-left: 50px;
-    height: 200px;
+    min-height: 250px;
     background-color: var(--cor1); 
     border-radius: 5px;   
 }
