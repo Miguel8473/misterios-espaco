@@ -16,7 +16,7 @@
     --texto-normal: Inter, cursive;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 375px, max-height:667px){
 
     body{
         overflow-x: hidden;
